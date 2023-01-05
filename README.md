@@ -9,5 +9,7 @@
 - ⚡ Fun fact: 
     1. I usually code for 5 minutes then keep debuging for hours.
     2. I am not a professional programmer.
+    3. I am a Covid virgin.
+    4. I love nijigen.
 <!-- - 👯 I’m looking to collaborate on ...
      - 🤔 I’m looking for help with -->
